@@ -1,8 +1,8 @@
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+![head.png](readme-top.png)
 
 Hi there, thanks for stopping by, this is **CNbysec**.
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="octocat.gif" width="230">
 
 ```go
 package main
@@ -35,7 +35,7 @@ func main() {
    <img src="https://komarev.com/ghpvc/?username=CNbysec">
 </a>
 
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+![bottom.png](readme-bottom.png)
 
 ---
 
