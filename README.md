@@ -16,7 +16,7 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Job: "渗透测试工程师，自动化赏金技巧分享，开源共享让世界更美好",
+    Job: "渗透测试工程师",
     Pronouns: "He/Him",
     Code: "PHP and Python and Go Everythings",
     BestAndFavoriteSkill: "Web Hacking and App Hacking :D"
