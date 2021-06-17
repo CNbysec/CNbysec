@@ -4,8 +4,8 @@
 
 <p>
 <em>漏洞赏金猎手 和 泰阿红队单兵系统制作维护者 <br>
-  研发CRUD选手 和 数字安全研究者 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
-  泰阿安全实验室名称由来:泰阿[tài ē]（又名太阿）是中国古代十大名剑之一，是欧冶子和干将两大剑师联手所铸。欲知泰阿，观其釽，巍巍翼翼，如流水之波。
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+  <br>泰阿安全实验室名称由来:泰阿[tài ē]（又名太阿）是中国古代十大名剑之一，是欧冶子和干将两大剑师联手所铸。欲知泰阿，观其釽，巍巍翼翼，如流水之波。
 </em>
 </p>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-### 更多关于我...
+<h3> 👨🏻‍💻 About Me </h3>
 
 ```go
 package main
