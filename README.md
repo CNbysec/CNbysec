@@ -19,17 +19,17 @@ const charles = {
 };
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+![CNbysec's github stats](https://github-readme-stats.vercel.app/api?username=CNbysec&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
+<a href="https://github.com/CNbysec">
+  <img src="https://img.shields.io/github/followers/CNbysec">
 </a>
-<a href="https://github.com/iCharlesZ">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+<a href="https://github.com/CNbysec">
+   <img src="https://komarev.com/ghpvc/?username=CNbysec">
 </a>
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
 ---
 
-⭐️ From [@iCharlesZ](https://github.com/CNbysec)
+⭐️ From [@CNbysec](https://github.com/CNbysec)
