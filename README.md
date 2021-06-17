@@ -1,40 +1,28 @@
-<h2> Hi, I'm CNbysec!</h2>
+<h3> 👨🏻‍💻 About Me </h3>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=taielab&show_icons=true&theme=radical" width="380">
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<p>
-<em>漏洞赏金猎手 和 泰阿红队单兵系统制作维护者 <br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-  <br>泰阿安全实验室名称由来:泰阿[tài ē]（又名太阿）是中国古代十大名剑之一，是欧冶子和干将两大剑师联手所铸。欲知泰阿，观其釽，巍巍翼翼，如流水之波。
-</em>
-</p>
+<h3>🛠 Tech Stack</h3>
 
-[![GitHub hahwul](https://img.shields.io/github/followers/CNbysec?label=follow%20github&style=flat-square)](https://github.com/taielab)
+- 💻 &nbsp; Python | PHP | Java | Go  
+- 🌐 &nbsp; HTML | CSS | JavaScript  
+- 🛢 &nbsp; MySQL | SQLite | Xampp
+- 🔧 &nbsp; Visual Studio code | PyCharm | Goland | Git
+- 🖥 &nbsp; VMware | Photoshop 
 
 <br>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CNbysec&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CNbysec's Github Stats">
 
-```go
-package main
+</br>
 
-type Me struct{
-  Pronouns string
-  Code string
-  Job string
-  BestAndFavoriteSkill string
-}
-
-func main() {
-  me := &Me{
-    Job: "渗透测试工程师，开源共享让世界更美好",
-    Pronouns: "He/Him",
-    Code: "PHP and Python and Everythings",
-    BestAndFavoriteSkill: "Web Hacking and App Hacking :D"
-  }
-  _ = me
-}
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CNbysec&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/CNbysec/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
