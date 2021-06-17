@@ -1,20 +1,35 @@
-![fdciabdul github stats](https://raw.githubusercontent.com/fdciabdul/fdciabdul/master/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png)
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
-<center>
-<a href="https://fb.me/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
- &nbsp;&nbsp; 
-<a href="https://pinterest.com/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174863.svg" alt="alt text" width="20" height="20"></a>
+Hi there, thanks for stopping by, this is **CNbysec**.
 
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
+```javascript
+const charles = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql", "oracle"],
+    }
+};
+```
 
-___
+![CNbysec's github stats](https://github-readme-stats.vercel.app/api?username=CNbysec&hide=contribs,prs&count_private=true&show_icons=true)
 
-**About Me**
+<a href="https://github.com/iCharlesZ">
+  <img src="https://img.shields.io/github/followers/iCharlesZ">
+</a>
+<a href="https://github.com/iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+</a>
 
-- Age : 20y.o
-- Skills : PHP , Javascript , Rust , And Golang
-- School : National Islamic Institute of Religion 
-           LAA ROIBA 
-___
-**Stats**
-![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=fdciabdul&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+
+---
+
+⭐️ From [@CNbysec](https://github.com/CNbysec)
